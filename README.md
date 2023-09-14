@@ -8,7 +8,7 @@
   <br>
    I am currently learning in the course:
   <div>    
-    <img src="https://skillicons.dev/icons?i=spring" target="_blank" width="50px" style="border-radius=5px" height= "50px" title="spring">
+    <img src="https://skillicons.dev/icons?i=docker" target="_blank" width="50px" style="border-radius=5px" height= "50px" title="spring">
   </div>
 </div>
 <br>
