@@ -23,7 +23,6 @@ I’m currently learning:
 My basic skills:
 <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="Github"/>
   <img src="https://skillicons.dev/icons?i=js" title="JavaScripy"/>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
