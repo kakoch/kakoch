@@ -8,7 +8,7 @@
   <br>
    I am currently learning in the course:
   <div>    
-    <img src="https://skillicons.dev/icons?i=docker" target="_blank" width="50px" style="border-radius=5px" height= "50px" title="spring">
+    <img src="https://skillicons.dev/icons?i=angular" target="_blank" width="50px" style="border-radius=5px" height= "50px" title="angular">
   </div>
 </div>
 <br>
@@ -31,6 +31,7 @@ My basic skills:
   <img src="https://skillicons.dev/icons?i=mysql" title="MySql"/>
   <img src="https://skillicons.dev/icons?i=php" title="Php"/>
   <img src="https://skillicons.dev/icons?i=css" title="Css"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="docker"/>
 </div>
 <br>
 Access my social networks:
